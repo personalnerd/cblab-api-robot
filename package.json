@@ -1,0 +1,10 @@
+{
+  "name": "cblab-api-robot",
+  "version": "1.0.0",
+  "description": "testes de api com robot framework",
+  "license": "ISC",
+  "author": "Tarcisio Uchoa",
+  "scripts": {
+    "test": "robot -d results suites"
+  }
+}

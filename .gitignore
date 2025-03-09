@@ -1,0 +1,6 @@
+# Robot Framework specific
+output/
+report/
+log/
+*.xml
+*.html
